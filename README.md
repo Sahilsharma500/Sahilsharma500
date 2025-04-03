@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studying at NIT Hamirpur in Electrical Engineering while diving deep into the tech world. I'm actively building projects to strengthen my skills in web development and machine learning.<br>I’m looking to collaborate on Exciting web development projects, open-source contributions, and innovative ideas that push the boundaries of tech.<br>I am currently doing data structures and algorithms using C++.<br>Fun fact Started in Electrical Engineering but found my passion in coding—now turning it into a career! 🚀
+Studying at NIT Hamirpur in Electrical Engineering while diving deep into the tech world. I'm actively building projects to strengthen my skills in web development and machine learning.<br>I’m looking to collaborate on Exciting web development projects, open-source contributions, and innovative ideas that push the boundaries of tech.<br>I am currently doing data structures and algorithms using C++.<br> Started in Electrical Engineering but found my passion in coding—now turning it into a career! 🚀
 
 
 ## 🌐 Socials:
